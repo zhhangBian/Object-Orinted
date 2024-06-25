@@ -1,0 +1,19 @@
+{
+    "1": [
+        "-ask2checkOut(guestName: String, roomId: int): void",
+        "+checkOut(roomId: int): void",
+        "-workerName: String",
+        "Dispatcher",
+        "finishClean",
+        "isCleanOperation()"
+    ],
+    "2": [
+        "DIS_REC_CHECKIN_FAILED",
+        "replyCheckOut(request);",
+        "arrangeClean4CheckOut(request);",
+        "arrangeCleanOnly(Request request)",
+        "RoomState.OCCUPIED",
+        "RequestTag.DIS_CLE_CLEAN_CHECKOUT.equals(request.getRequestTag())"
+    ],
+    "3": "在本次实验中，我通过阅读课程组给出的实验代码，较好地理解了高内聚、低耦合的设计理念。\n对于Problem1，实验给出的代码由三个对象进行紧密协作，通过暴露的接口进行行为上的交互，各司其职。但是这样的代码没有考虑拓展性，只适用于单线程情况下的简单场景。\n对于Problem2，实验给出的代码结构清晰，通过阅读UML类图及顺序图可以发现，每个类承担的功能是清晰的，这体现了高内聚的特点，在UML设计后每个类充分遵循设计的功能。并且，这次代码各模块间也遵循了低耦合的设计思想，每个类不过多依赖其他类进行工作，只对依赖类提供的方法进行要求。\n高内聚低耦合是一种重要的设计思想，在平时的学习工作中，我也尽量让自己的代码如此。今后可以先设计UML，从架构上先进行保证，再进行具体代码的书写。"
+}

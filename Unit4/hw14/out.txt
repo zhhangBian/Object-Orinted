@@ -1,0 +1,148 @@
+0
+[2024-01-03] [accept] 22370102 ordered B-5710
+[2024-01-03] [accept] 22370025 donated BU-0691
+[2024-01-03] [accept] 22370050 donated CU-2768
+[2024-01-03] [accept] 22370025 borrowed B-5710
+[2024-01-03] [accept] 22370025 borrowed BU-0691
+0
+1
+[2024-01-08] move B-5710 from bs to ao for 22370102
+0
+0
+[2024-01-10] B-5710 4
+0
+0
+0
+1
+[2024-01-15] move B-5710 from ao to bs
+0
+0
+0
+0
+[2024-01-19] [accept] 22370050 ordered B-1661
+[2024-01-19] [accept] 22370025 returned B-5710 not overdue
+0
+2
+[2024-01-24] move B-5710 from bro to bs
+[2024-01-24] move B-1661 from bs to ao for 22370050
+0
+0
+[2024-01-28] B-5710 6
+[2024-01-28] B-1661 7
+[2024-01-28] [accept] 22370025 returned BU-0691 overdue
+[2024-01-28] [accept] 22370102 donated CU-0979
+[2024-01-28] B-1661 7
+[2024-01-28] [accept] 22370050 donated AU-5429
+0
+2
+[2024-01-29] move BU-0691 from bro to bdc
+[2024-01-29] move B-1661 from ao to bs
+[2024-01-29] [accept] 22370025 donated BU-6171
+0
+0
+0
+0
+0
+0
+[2024-02-10] [accept] 22370050 donated CU-2845
+[2024-02-10] [accept] 22370102 borrowed B-1661
+[2024-02-10] [reject] 22370050 ordered CU-2768
+0
+0
+[2024-02-15] [reject] 22370102 ordered CU-2768
+[2024-02-15] [accept] 22370025 ordered B-5710
+0
+1
+[2024-02-20] move B-5710 from bs to ao for 22370025
+0
+0
+[2024-02-21] [accept] 22370025 borrowed BU-0691
+[2024-02-21] [reject] 22370102 picked B-5710
+[2024-02-21] [reject] 22370102 ordered B-1661
+[2024-02-21] [accept] 22370102 donated AU-5402
+[2024-02-21] [accept] 22370050 donated BU-9378
+[2024-02-21] [reject] 22370102 renewed B-1661
+[2024-02-21] B-1661 7
+[2024-02-21] [reject] 22370025 renewed BU-0691
+[2024-02-21] [reject] 22370102 borrowed AU-5429
+[2024-02-21] AU-5402 1
+[2024-02-21] [reject] 22370050 picked B-1661
+0
+0
+0
+1
+[2024-02-27] move B-5710 from ao to bs
+0
+0
+[2024-03-03] [accept] 22370025 donated CU-5292
+[2024-03-03] [reject] 22370102 ordered B-5710
+0
+0
+[2024-03-05] [accept] 22370050 donated BU-1681
+0
+0
+[2024-03-06] [reject] 22370102 renewed B-1661
+[2024-03-06] [accept] 22370102 returned B-1661 not overdue
+[2024-03-06] [reject] 22370050 picked B-1661
+[2024-03-06] [accept] 22370102 borrowed B-1661
+[2024-03-06] [accept] 22370102 returned B-1661 not overdue
+[2024-03-06] [accept] 22370025 donated CU-7273
+0
+2
+[2024-03-09] move B-1661 from bro to bs
+[2024-03-09] move B-1661 from bro to bs
+[2024-03-09] [reject] 22370050 picked B-1661
+[2024-03-09] [reject] 22370102 picked B-5710
+0
+0
+[2024-03-11] [reject] 22370102 picked B-5710
+[2024-03-11] [accept] 22370025 borrowed CU-0979
+0
+0
+[2024-03-14] B-5710 6
+[2024-03-14] [reject] 22370050 picked B-1661
+[2024-03-14] [reject] 22370050 ordered CU-2845
+[2024-03-14] [reject] 22370102 ordered BU-9378
+[2024-03-14] [reject] 22370102 borrowed AU-5429
+0
+0
+0
+0
+[2024-03-18] B-1661 8
+[2024-03-18] [reject] 22370102 ordered BU-6171
+[2024-03-18] [accept] 22370050 donated BU-4606
+0
+0
+[2024-03-23] [accept] 22370050 donated CU-6648
+[2024-03-23] [reject] 22370050 picked B-1661
+[2024-03-23] [accept] 22370025 returned CU-0979 not overdue
+0
+1
+[2024-03-28] move CU-0979 from bro to bdc
+[2024-03-28] [reject] 22370050 picked B-1661
+0
+0
+0
+0
+[2024-04-01] [accept] 22370025 donated BU-2125
+0
+0
+[2024-04-03] [accept] 22370050 borrowed CU-0979
+0
+0
+[2024-04-08] [reject] 22370102 picked B-5710
+[2024-04-08] [reject] 22370102 picked B-5710
+[2024-04-08] CU-2768 1
+[2024-04-08] [accept] 22370102 borrowed B-1661
+[2024-04-08] [reject] 22370050 ordered CU-7273
+[2024-04-08] [reject] 22370050 picked B-1661
+[2024-04-08] [accept] 22370050 donated BU-8990
+[2024-04-08] [reject] 22370102 picked B-5710
+[2024-04-08] [reject] 22370050 picked B-1661
+[2024-04-08] [accept] 22370025 donated BU-0908
+[2024-04-08] [accept] 22370050 returned CU-0979 not overdue
+[2024-04-08] [accept] 22370102 donated BU-6562
+[2024-04-08] [reject] 22370025 picked B-5710
+[2024-04-08] [reject] 22370050 picked B-1661
+[2024-04-08] [accept] 22370025 borrowed B-5710
+0

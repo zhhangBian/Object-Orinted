@@ -1,0 +1,25 @@
+0
+[2024-01-05] [accept] 87861771 ordered C-2960
+0
+1
+[2024-01-06] move C-2960 from bs to ao for 87861771
+[2024-01-06] [accept] 87861771 picked C-2960
+0
+0
+[2024-01-11] [accept] 34077037 ordered C-2960
+0
+0
+[2024-01-12] [accept] 34077037 borrowed B-4056
+0
+0
+[2024-01-13] [reject] 34077037 picked C-2960
+0
+0
+[2024-01-15] C-6513 1
+[2024-01-15] [accept] 14186197 ordered B-4056
+[2024-01-15] [accept] 40217410 ordered B-4056
+0
+1
+[2024-01-19] move B-4056 from bs to ao for 14186197
+[2024-01-19] [reject] 40217410 picked B-4056
+0

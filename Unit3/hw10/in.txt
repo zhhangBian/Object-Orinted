@@ -1,0 +1,140 @@
+ap 1 DPO-bot-1 54
+ap 2 DPO-bot-2 192
+ap 3 DPO-bot-3 54
+at 3 5
+ar 3 1 38
+ar 3 2 186
+ap 4 DPO-bot-4 131
+ap 5 DPO-bot-5 66
+at 5 72
+ar 4 5 23
+at 4 1
+dt 5 72
+ar 2 5 50
+ar 1 4 66
+ar 1 5 126
+ar 4 3 107
+att 1 4 1
+at 2 1
+dft 1 4 1
+att 1 4 1
+mr 3 2 -109
+ap 6 DPO-bot-6 134
+mr 3 4 -161
+ar 2 1 20
+att 1 2 1
+at 5 1
+att 1 5 1
+ap 7 DPO-bot-7 33
+ar 5 6 170
+att 3 2 1
+ar 4 6 181
+ap 8 DPO-bot-8 138
+ap 9 DPO-bot-9 39
+dt 4 1
+ar 7 2 16
+at 7 1
+ar 1 6 151
+ar 4 9 165
+ar 9 1 186
+att 2 7 1
+ap 10 DPO-bot-10 169
+dft 2 7 1
+ar 9 6 2
+ar 8 9 70
+ap 11 DPO-bot-11 117
+at 8 1
+ap 12 DPO-bot-12 128
+dt 5 1
+ar 6 11 48
+ar 3 9 42
+att 2 7 1
+dft 2 7 1
+ap 13 DPO-bot-13 84
+dt 8 1
+att 2 7 1
+ap 14 DPO-bot-14 121
+ap 15 DPO-bot-15 87
+ar 9 11 198
+ap 16 DPO-bot-16 8
+at 9 1
+ar 15 10 120
+ar 12 10 140
+mr 11 6 -100
+at 3 1
+ar 10 7 72
+att 6 9 1
+ap 17 DPO-bot-17 181
+att 7 2 1
+att 8 9 1
+ar 7 14 200
+ar 15 12 112
+att 10 7 1
+ar 11 5 88
+ap 18 DPO-bot-18 3
+att 11 9 1
+dft 10 7 1
+ar 11 7 199
+ar 7 1 153
+ar 2 17 63
+ar 5 14 162
+ar 18 5 115
+ar 14 13 172
+ar 2 10 37
+at 15 1
+dft 8 9 1
+ap 19 DPO-bot-19 35
+mr 7 11 -30
+att 1 7 1
+at 6 1
+ap 20 DPO-bot-20 187
+mr 10 2 -153
+att 8 9 1
+at 19 1
+att 9 6 1
+ar 18 7 119
+ap 21 DPO-bot-21 178
+at 8 1
+ar 12 8 68
+ar 17 15 150
+att 12 8 1
+att 3 9 1
+att 10 7 1
+ar 17 18 150
+ar 13 7 93
+ar 21 14 165
+ap 22 DPO-bot-22 99
+ar 17 10 100
+at 1 1
+ap 23 DPO-bot-23 87
+att 17 2 1
+ar 10 2 192
+ar 23 18 132
+ar 2 22 24
+ar 8 20 26
+ar 17 9 1
+at 16 1
+ar 10 1 136
+att 4 1 1
+ap 24 DPO-bot-24 147
+att 9 3 1
+ar 10 16 159
+ar 1 17 74
+ar 8 3 60
+at 17 1
+att 9 8 1
+ar 16 8 74
+att 10 15 1
+ap 25 DPO-bot-25 31
+ap 26 DPO-bot-26 183
+att 2 1 1
+ap 27 DPO-bot-27 146
+att 12 15 1
+att 1 17 1
+at 12 1
+ap 28 DPO-bot-28 97
+dt 1 1
+ar 21 1 102
+dft 3 2 1
+att 17 15 1
+qtvs 7 1
